@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+CreativeCore_VFX_2021.3LTS.sln
+Library/
+Logs/
+Temp/
+UserSettings/
+
